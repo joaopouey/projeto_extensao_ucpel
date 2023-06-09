@@ -1,0 +1,66 @@
+body{
+    background-color: blue;
+    font-family: 'Syncopate', sans-serif;
+}
+
+img {
+    display: inline;
+    width: 300px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+
+.resposta{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    background-color: aliceblue;
+    border-width: 10px;
+    border-radius: 10px;
+    width: 600px;
+    height: 100%;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+.formulario{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    background-color: aliceblue;
+    border-width: 10px;
+    border-radius: 10px;
+    width: 600px;
+    height: 100%;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+.form_inside{
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.submit_button {
+    width: 200px;
+    height: 50px;
+	background: #016ABC;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
+
+.submit_button:hover {
+	background: #B9DFFF;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
